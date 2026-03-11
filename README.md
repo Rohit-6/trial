@@ -358,7 +358,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     </details>
 
 > [!TIP]
-> <p>Secure your <a href=" https://empmonitor.com/insider-threat-prevention/"><b><i>free insider threat prevention trial</b></i></a> for real-time visibility into sensitive organizational activities; leveraging insider threat prevention allows your security team to receive instant alerts and visualize high-risk user actions across the network.</p>
+> <p>Secure your <a href="https://empmonitor.com/insider-threat-prevention/"><b><i>free insider threat prevention trial</b></i></a> for real-time visibility into sensitive organizational activities; leveraging insider threat prevention allows your security team to receive instant alerts and visualize high-risk user actions across the network.</p>
 
 
 - **Attendance Monitoring**: 
