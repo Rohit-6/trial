@@ -7,8 +7,8 @@
 
     <p>Whether you’re monitoring application usage, tracking work hours, or identifying areas for improvement, EmpMonitor ensures transparency, efficiency, and trust in your workplace.</p>
     
-    > [!TIP]
-    > <p>Discover the best <a href="https://empmonitor.com/employee-monitoring-software/">employee monitoring software</a> in 2026 to enable remote employee monitoring with screenshots, real-time productivity dashboards, ethical privacy controls, and intuitive time tracking for hybrid teams.</p>
+> [!TIP]
+> <p>Discover the best <a href="https://empmonitor.com/employee-monitoring-software/">employee monitoring software</a> in 2026 to enable remote employee monitoring with screenshots, real-time productivity dashboards, ethical privacy controls, and intuitive time tracking for hybrid teams.</p>
 
-    > [!TIP]
-    > <p>Start your <a href="https://empmonitor.com/employee-monitoring-software/"><b><i>free employee monitoring software trial</b></i></a> for seamless hybrid oversight. Use employee monitoring software to track attendance, capture screenshots, and boost productivity ethically.</p>
+> [!TIP]
+> <p>Start your <a href="https://empmonitor.com/employee-monitoring-software/"><b><i>free employee monitoring software trial</b></i></a> for seamless hybrid oversight. Use employee monitoring software to track attendance, capture screenshots, and boost productivity ethically.</p>
